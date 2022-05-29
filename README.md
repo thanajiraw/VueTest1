@@ -1,5 +1,6 @@
-# Vue Dashboard, Axios
-## Project setup
+# Vue Dashboard and Axios
+
+### Project setup
 ```
 npm install
 ```
